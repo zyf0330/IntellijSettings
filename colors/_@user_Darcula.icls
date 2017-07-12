@@ -1,0 +1,26 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0833334" />
+  <metaInfo>
+    <property name="created">2017-07-12T09:26:52</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2017.1.5.0.0</property>
+    <property name="modified">2017-07-12T10:30:28</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC Regular" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC Regular" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
+  </console-font>
+</scheme>
