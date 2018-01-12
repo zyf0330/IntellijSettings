@@ -4,7 +4,7 @@
     <property name="created">2017-07-12T09:26:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.5.0.0</property>
-    <property name="modified">2017-11-14T10:23:41</property>
+    <property name="modified">2018-01-12T18:22:46</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <font>
@@ -13,7 +13,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC Regular" />
-    <option name="EDITOR_FONT_SIZE" value="22" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
