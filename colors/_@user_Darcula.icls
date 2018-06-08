@@ -1,10 +1,10 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.1666666" />
   <metaInfo>
     <property name="created">2017-07-12T09:26:52</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.5.0.0</property>
-    <property name="modified">2018-04-27T18:20:56</property>
+    <property name="modified">2018-06-08T18:55:12</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <font>
@@ -13,7 +13,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC Regular" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -22,7 +22,7 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Noto Sans CJK SC Regular" />
-    <option name="EDITOR_FONT_SIZE" value="19" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
 </scheme>
