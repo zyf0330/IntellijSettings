@@ -1,0 +1,49 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1537166677313">
+        <mark key="'" line="290" column="97" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/data/RoomPolicyHolder.as" timestamp="1537166703242">
+        <mark key="'" line="49" column="43" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" timestamp="1537166725681">
+        <mark key="[" line="462" column="24" />
+        <mark key="]" line="462" column="50" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="198" column="14" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" />
+      <jump line="299" column="27" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" />
+      <jump line="290" column="97" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" />
+      <jump line="49" column="43" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/data/RoomPolicyHolder.as" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>controlRoomActivityCallback</text>
+      </register>
+      <register name="/" type="4">
+        <text>denydraw</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>denydraw</last-search>
+      <last-offset />
+      <last-pattern>denydraw</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>denydraw</entry>
+      </history-search>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
