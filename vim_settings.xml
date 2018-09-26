@@ -6,6 +6,15 @@
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1537166677313">
         <mark key="'" line="290" column="97" />
       </file>
+      <file name="/Dummy.txt" timestamp="1537939225306">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1537939193709">
+        <mark key="[" line="266" column="9" />
+        <mark key="]" line="266" column="10" />
+        <mark key="^" line="266" column="10" />
+        <mark key="." line="266" column="10" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/data/RoomPolicyHolder.as" timestamp="1537167224949">
         <mark key="'" line="151" column="16" />
       </file>
@@ -35,21 +44,22 @@
         <text>463</text>
       </register>
       <register name="/" type="4">
-        <text>isin</text>
+        <text>localping</text>
       </register>
     </registers>
     <search>
-      <last-search>isin</last-search>
+      <last-search>localping</last-search>
       <last-offset />
-      <last-pattern>isin</last-pattern>
+      <last-pattern>localping</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>denydraw</entry>
         <entry>initRoomAc</entry>
         <entry>isin</entry>
+        <entry>localping</entry>
       </history-search>
       <history-cmd>
         <entry>463</entry>
@@ -66,6 +76,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
