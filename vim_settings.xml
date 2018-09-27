@@ -3,13 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/feedback/ConnectionPingService.as" timestamp="1538032582762" />
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1537166677313">
         <mark key="'" line="290" column="97" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537939225306">
+      <file name="/Dummy.txt" timestamp="1538033247276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1537939193709">
+      <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1538033245745">
+        <mark key="'" line="61" column="28" />
         <mark key="[" line="266" column="9" />
         <mark key="]" line="266" column="10" />
         <mark key="^" line="266" column="10" />
@@ -35,6 +37,9 @@
       <jump line="104" column="20" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/data/RoomPolicyHolder.as" />
       <jump line="66" column="53" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/data/RoomPolicyHolder.as" />
       <jump line="151" column="16" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/data/RoomPolicyHolder.as" />
+      <jump line="41" column="65" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" />
+      <jump line="63" column="41" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" />
+      <jump line="61" column="28" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -44,13 +49,13 @@
         <text>463</text>
       </register>
       <register name="/" type="4">
-        <text>localping</text>
+        <text>ping</text>
       </register>
     </registers>
     <search>
-      <last-search>localping</last-search>
+      <last-search>ping</last-search>
       <last-offset />
-      <last-pattern>localping</last-pattern>
+      <last-pattern>ping</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -60,6 +65,7 @@
         <entry>initRoomAc</entry>
         <entry>isin</entry>
         <entry>localping</entry>
+        <entry>ping</entry>
       </history-search>
       <history-cmd>
         <entry>463</entry>
@@ -82,6 +88,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
