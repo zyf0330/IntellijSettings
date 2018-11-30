@@ -3,12 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/feedback/ConnectionPingService.as" timestamp="1538032582762" />
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1537166677313">
         <mark key="'" line="290" column="97" />
       </file>
       <file name="/Dummy.txt" timestamp="1538033247276">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1541570814198">
+        <mark key="[" line="8" column="85" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1538033245745">
         <mark key="'" line="61" column="28" />
@@ -57,7 +62,7 @@
       <last-offset />
       <last-pattern>ping</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
