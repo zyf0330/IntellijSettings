@@ -22,6 +22,16 @@
         <mark key="^" line="266" column="10" />
         <mark key="." line="266" column="10" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/flash-rtmp-test/src/main.as" timestamp="1545878319853" />
+      <file name="/fragment.js2" timestamp="1545878387042">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/klipper/klipper.cpp" timestamp="1543547102344">
+        <mark key="'" line="68" column="21" />
+        <mark key="[" line="1000" column="0" />
+        <mark key="]" line="1000" column="0" />
+        <mark key="." line="1000" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/data/RoomPolicyHolder.as" timestamp="1537167224949">
         <mark key="'" line="151" column="16" />
       </file>
@@ -45,10 +55,17 @@
       <jump line="41" column="65" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" />
       <jump line="63" column="41" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" />
       <jump line="61" column="28" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" />
+      <jump line="68" column="21" filename="$USER_HOME$/Desktop/klipper/klipper.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>controlRoomActivityCallback</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW50IG1haW4K</text>
       </register>
       <register name=":" type="4">
         <text>463</text>
@@ -96,6 +113,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
