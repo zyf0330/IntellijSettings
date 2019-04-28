@@ -15,8 +15,13 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1556429310930">
+      <file name="/Python Console" timestamp="1556429568912">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" timestamp="1556430287194">
+        <mark key="'" line="4" column="7" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="19" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/config/default.ini" timestamp="1556427582454">
         <mark key="[" line="11" column="14" />
@@ -30,12 +35,12 @@
       <file name="/a.dummy" timestamp="1556427789777">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" timestamp="1556429406712">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="30" column="65" />
-        <mark key="]" line="30" column="65" />
-        <mark key="." line="30" column="65" />
-        <mark key="^" line="30" column="65" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" timestamp="1556430681551">
+        <mark key="'" line="47" column="29" />
+        <mark key="[" line="51" column="29" />
+        <mark key="]" line="51" column="42" />
+        <mark key="." line="51" column="29" />
+        <mark key="^" line="22" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/klipper/klipper.cpp" timestamp="1543547102344">
         <mark key="'" line="68" column="21" />
@@ -43,11 +48,14 @@
         <mark key="]" line="1000" column="0" />
         <mark key="." line="1000" column="0" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/utils.py" timestamp="1556430256548">
+        <mark key="'" line="55" column="4" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1537166677313">
         <mark key="'" line="290" column="97" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" timestamp="1556427060675">
-        <mark key="'" line="48" column="84" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" timestamp="1556430294188">
+        <mark key="'" line="10" column="17" />
         <mark key="[" line="55" column="54" />
         <mark key="]" line="55" column="63" />
       </file>
@@ -104,55 +112,70 @@
       <jump line="30" column="17" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" />
       <jump line="9" column="18" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/handlers/report_handlers.py" />
       <jump line="4" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" />
+      <jump line="52" column="19" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="301" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="317" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="335" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="356" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/utils.py" />
+      <jump line="55" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/utils.py" />
+      <jump line="380" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="9" column="18" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="218" column="19" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="4" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="10" column="17" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" />
+      <jump line="3" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" />
+      <jump line="47" column="29" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyb29tJzogZG9jWydyb29tJ10sCg==</text>
+      <register name="&quot;" type="4">
+        <text>date_from_doc</text>
       </register>
       <register name="-" type="4">
-        <text>or</text>
+        <text>date_from_doc</text>
       </register>
       <register name="/" type="4">
-        <text>room</text>
+        <text encoding="base64">XDxwZFw+</text>
       </register>
       <register name="0" type="4">
-        <text>t_platform</text>
+        <text>date_from_doc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyb29tJzogZG9jWydyb29tJ10sCg==</text>
+        <text encoding="base64">ICAgIHBhcnNlSW50KDE2KSAqIDEwMDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8K</text>
+        <text encoding="base64">ICAgICcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlSW50KDE2KSAqIDEwMDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkID0gewogICAgICAgICAgICAgICAgJ3Jvb20nOiBkb2NbJ3Jvb20nXSwKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd0X3BsYXRmb3JtJzogcGxhdGZvcm1fZnJvbV91c2VyZW52KGRvY1sndXNlcmVudiddWyd0ZWFjaGVyJ10pLAogICAgICAgICAgICAgICAgJ3NfcGxhdGZvcm0nOiBwbGF0Zm9ybV9mcm9tX3VzZXJlbnYoZG9jWyd1c2VyZW52J11bJ3N0dWRlbnQnXSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGxpbmVzKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAndW5rbm93bicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZVsncm9vbSddID0gZG9jWydyb29tJ10K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZVsnc191YSddID0gcGxhdGZvcm1fZnJvbV91c2VyZW52KGRvY1sndXNlcmVudiddWydzdHVkZW50J10pCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGsuZW5kc3dpdGgoJzp1YScpOgogICAgICAgICAgICByZXR1cm4gJ3Vua25vd24nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>463</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>room</last-search>
+      <last-search encoding="base64">XDxwZFw+</last-search>
       <last-offset />
-      <last-pattern>room</last-pattern>
+      <last-pattern encoding="base64">XDxwZFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -169,9 +192,15 @@
         <entry>userenv</entry>
         <entry encoding="base64">XDxyb29tX2luZm9cPg==</entry>
         <entry>room</entry>
+        <entry>pandas</entry>
+        <entry encoding="base64">XDxwYW5kYXNcPg==</entry>
+        <entry encoding="base64">XDxwZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>463</entry>
+        <entry>tabprevious</entry>
+        <entry>tabnext</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -212,6 +241,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl alt pressed LEFT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl alt pressed RIGHT</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
