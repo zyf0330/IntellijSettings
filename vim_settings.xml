@@ -15,7 +15,7 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1556440329336">
+      <file name="/Python Console" timestamp="1556442247786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" timestamp="1556433983251">
@@ -48,12 +48,12 @@
         <mark key="^" line="60" column="102" />
         <mark key="." line="60" column="102" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" timestamp="1556440816776">
-        <mark key="'" line="82" column="16" />
-        <mark key="[" line="44" column="76" />
-        <mark key="]" line="44" column="76" />
-        <mark key="." line="44" column="76" />
-        <mark key="^" line="82" column="27" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" timestamp="1556442306336">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="76" />
+        <mark key="]" line="38" column="76" />
+        <mark key="." line="38" column="76" />
+        <mark key="^" line="61" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/klipper/klipper.cpp" timestamp="1543547102344">
         <mark key="'" line="68" column="21" />
@@ -100,7 +100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="14" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" />
       <jump line="299" column="27" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" />
       <jump line="290" column="97" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" />
       <jump line="49" column="43" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/data/RoomPolicyHolder.as" />
@@ -175,7 +174,6 @@
       <jump line="21" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="52" column="36" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="53" column="47" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
-      <jump line="75" column="21" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="42" column="86" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="70" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="12" column="32" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
@@ -187,9 +185,7 @@
       <jump line="13" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/config/default.ini" />
       <jump line="69" column="27" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="76" column="25" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="43" column="75" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
-      <jump line="78" column="27" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="50" column="35" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="5" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="79" column="27" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
@@ -198,6 +194,12 @@
       <jump line="89" column="27" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="32" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="82" column="16" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="73" column="27" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="56" column="42" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="26" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="75" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="78" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -207,46 +209,46 @@
         <text>.limit(100)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaW5kX2Zyb21fZGJcPg==</text>
+        <text>limit</text>
       </register>
-      <register name="0" type="4">
-        <text>groupby_df</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRmID0gcGQuRGF0YUZyYW1lKHRfcmVjb3JkcywgY29sdW1ucz1bJ2RhdGUnLCAncm9vbSddKVwKICAgICAgICAuZ3JvdXBieShbJ2RhdGUnXSwgc29ydD0nZGF0ZScpLmFnZygnY291bnQnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFsbF9ncm91cGJ5X2RmID0gcGQuRGF0YUZyYW1lKCkKICAgIGFsbF90aXRsZV9kZiA9IHBkLkRhdGFGcmFtZSgpCiAgICBmb3IgcmVzdWx0IGluIHJlc3VsdHM6CiAgICAgICAgYWxsX2dyb3VwYnlfZGYuYXBwZW5kKHJlc3VsdFsnZ3JvdXBieV9kZiddKQogICAgICAgIGFsbF90aXRsZV9kZi5hcHBlbmQocmVzdWx0Wyd0aXRsZV9kZiddKQo=</text>
+        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciByZXN1bHQgaW4gcmVzdWx0czoKICAgICAgICBhbGxfZ3JvdXBieV9kZi5hcHBlbmQocmVzdWx0Wydncm91cGJ5X2RmJ10pCiAgICAgICAgYWxsX3RpdGxlX2RmLmFwcGVuZChyZXN1bHRbJ3RpdGxlX2RmJ10pCg==</text>
+        <text encoding="base64">ICAgIHRfZGYuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFsbF90aXRsZV9kZiA9IHBkLkRhdGFGcmFtZSgpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsbF9ncm91cGJ5X2RmID0gcGQuRGF0YUZyYW1lKCkK</text>
+        <text encoding="base64">ICAgIGdyb3VwYnlfZGYudG9fY3N2KCcuL2ZsYXNoX3VzYWdlLmNzdicsIHNlcD0nXHQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvb2wuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVjb3JkWydmbGFzaCddID0gaXNfZmxhc2gK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGwgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHJlY29yZFsndF9mbGFzaCddICYmIG5vdCByZWNvcmQ6CiAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNfZmxhc2ggPSBpc19mbGFzaF9yb29tKHJlY29yZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgICAgJ3JlY29yZHMnOiByZWNvcmRzLAogICAgICAgICd0aXRsZV9kZic6IHRpdGxlX2RmLAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRpdGxlX2RmID0gcGQuRGF0YUZyYW1lKHJlY29yZHMpLnNldF9pbmRleCgnZGF0ZScpLnNvcnRfaW5kZXgoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaW5kX2Zyb21fZGJcPg==</last-search>
+      <last-search>limit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaW5kX2Zyb21fZGJcPg==</last-pattern>
+      <last-pattern>limit</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaW5kX2Zyb21fZGJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -254,9 +256,6 @@
     </search>
     <history>
       <history-search>
-        <entry>room</entry>
-        <entry>pandas</entry>
-        <entry encoding="base64">XDxwYW5kYXNcPg==</entry>
         <entry encoding="base64">XDxjYXRjaFw+</entry>
         <entry>get</entry>
         <entry>doc</entry>
@@ -270,10 +269,13 @@
         <entry encoding="base64">XDxpc19mbGFzaF9yb29tXD4=</entry>
         <entry encoding="base64">XDxzZWNyZXRfa2V5XD4=</entry>
         <entry>query</entry>
-        <entry>limit</entry>
         <entry>num</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxmaW5kX2Zyb21fZGJcPg==</entry>
+        <entry>isflash</entry>
+        <entry>is_flash</entry>
+        <entry>find</entry>
+        <entry>limit</entry>
       </history-search>
       <history-cmd>
         <entry>463</entry>
