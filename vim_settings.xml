@@ -15,11 +15,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="/Python Console" timestamp="1556431691528">
+      <file name="/Python Console" timestamp="1556435393752">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" timestamp="1556431489077">
-        <mark key="'" line="4" column="17" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" timestamp="1556433983251">
+        <mark key="'" line="339" column="36" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="19" />
       </file>
@@ -29,9 +29,9 @@
         <mark key="^" line="11" column="67" />
         <mark key="." line="11" column="14" />
       </file>
-      <file name="/fragment.py" timestamp="1556431166434">
+      <file name="/fragment.py" timestamp="1556434244470">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
@@ -47,10 +47,12 @@
         <mark key="^" line="60" column="102" />
         <mark key="." line="60" column="102" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" timestamp="1556431899346">
-        <mark key="[" line="30" column="48" />
-        <mark key="]" line="30" column="49" />
-        <mark key="." line="30" column="49" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" timestamp="1556435684228">
+        <mark key="'" line="41" column="86" />
+        <mark key="[" line="59" column="46" />
+        <mark key="]" line="59" column="52" />
+        <mark key="." line="59" column="52" />
+        <mark key="^" line="59" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/klipper/klipper.cpp" timestamp="1543547102344">
         <mark key="'" line="68" column="21" />
@@ -64,8 +66,8 @@
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1537166677313">
         <mark key="'" line="290" column="97" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" timestamp="1556430294188">
-        <mark key="'" line="10" column="17" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" timestamp="1556434695496">
+        <mark key="'" line="130" column="17" />
         <mark key="[" line="55" column="54" />
         <mark key="]" line="55" column="63" />
       </file>
@@ -123,7 +125,6 @@
       <jump line="9" column="18" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/handlers/report_handlers.py" />
       <jump line="4" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" />
       <jump line="52" column="19" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="301" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="317" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="335" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
@@ -136,81 +137,97 @@
       <jump line="10" column="17" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" />
       <jump line="3" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" />
       <jump line="47" column="29" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" />
-      <jump line="144" column="16" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="213" column="29" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="221" column="66" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="29" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" />
       <jump line="61" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" />
       <jump line="275" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="298" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="305" column="50" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="314" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="321" column="50" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="332" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="339" column="49" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="353" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="360" column="49" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="375" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="384" column="50" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="33" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="51" column="29" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="50" column="34" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="89" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="4" column="17" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="144" column="16" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="213" column="29" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="691" column="8" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="221" column="58" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="305" column="42" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="60" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="17" column="49" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="21" column="17" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="67" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="339" column="36" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
+      <jump line="55" column="24" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="18" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="42" column="15" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="48" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="130" column="17" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" />
+      <jump line="58" column="29" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="8" column="19" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="62" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="41" column="86" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.sort_values(by='date')</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.sort_values(by='date')</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZFw+</text>
+        <text>limit</text>
       </register>
       <register name="0" type="4">
-        <text>,'s_platform'</text>
+        <text>group_by_date</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAubGltaXQoMTApICAjIFRPRE8gZGVsZXRlCg==</text>
+        <text encoding="base64">ICAgIGdyb3VwX2J5X2RhdGUocmVjb3JkcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAubGltaXQoMTApICAjIFRPRE8gZGVsZXRlCg==</text>
+        <text encoding="base64">ICAgICMgVE9ETyDliKTmlq0gdWEg5piv572R6aG1Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgojIGZyb20gdXRpbHMgaW1wb3J0IHJvb21faW5mbwo=</text>
+        <text encoding="base64">ICAgIGRmLmdyb3VwYnkoYnk9J2RhdGUnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBrLmVuZHN3aXRoKCc6bGgnKToKICAgICAgICAgICAgb1snc19yZWZlciddID0gdi5zdHJpcCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGRhdGVfZnJvbV9kb2MoZG9jKToKICAgIHJldHVybiBpbnQoZG9jWydfaWQnXVswOjhdLCAxNikgKiAxMDAwCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBrLmVuZHN3aXRoKCc6bGgnKToKICAgICAgICAgICAgb1sndF9yZWZlciddID0gdi5zdHJpcCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnNlSW50KDE2KSAqIDEwMDAK</text>
+        <text encoding="base64">ICAgIGQgPSB7fS5nZXQoJ19pZCcsIHt9KS5nZW5lcmF0aW9uX3RpbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICcnCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBrLmVuZHN3aXRoKCc6ZnYnKSBhbmQgdi5zdHJpcCgpICE9ICcnOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlSW50KDE2KSAqIDEwMDAK</text>
+        <text encoding="base64">ICAgICAgICAubGltaXQoMTApICAjIFRPRE8gZGVsZXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZFw+</last-search>
+      <last-search>limit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZFw+</last-pattern>
+      <last-pattern>limit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>denydraw</entry>
-        <entry>initRoomAc</entry>
-        <entry>isin</entry>
-        <entry>localping</entry>
         <entry>ping</entry>
         <entry>venv</entry>
         <entry>days</entry>
@@ -221,8 +238,16 @@
         <entry>pandas</entry>
         <entry encoding="base64">XDxwYW5kYXNcPg==</entry>
         <entry encoding="base64">XDxjYXRjaFw+</entry>
+        <entry>get</entry>
+        <entry>doc</entry>
         <entry>pd</entry>
         <entry encoding="base64">XDxwZFw+</entry>
+        <entry>to_csv</entry>
+        <entry>refer</entry>
+        <entry>t_flash</entry>
+        <entry>groypby</entry>
+        <entry>groupby</entry>
+        <entry>limit</entry>
       </history-search>
       <history-cmd>
         <entry>463</entry>
