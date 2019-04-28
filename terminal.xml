@@ -1,6 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myOverrideIdeShortcuts" value="false" />
-    <option name="myShellPath" value="zsh" />
+    <option name="myShellIntegration" value="false" />
+    <option name="myShellPath" value="/usr/bin/zsh" />
+    <option name="mySoundBell" value="false" />
   </component>
 </application>
