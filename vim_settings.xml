@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1537166677313">
-        <mark key="'" line="290" column="97" />
+      <file name="/start_script.py" timestamp="1556424660765">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538033247276">
+      <file name="/Dummy.txt" timestamp="1556424637811">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1541570814198">
@@ -15,6 +15,24 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/getVIPKID.py" timestamp="1556425490160">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desktop/klipper/klipper.cpp" timestamp="1543547102344">
+        <mark key="'" line="68" column="21" />
+        <mark key="[" line="1000" column="0" />
+        <mark key="]" line="1000" column="0" />
+        <mark key="." line="1000" column="0" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1537166677313">
+        <mark key="'" line="290" column="97" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" timestamp="1556425177562">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1538033245745">
         <mark key="'" line="61" column="28" />
         <mark key="[" line="266" column="9" />
@@ -22,15 +40,8 @@
         <mark key="^" line="266" column="10" />
         <mark key="." line="266" column="10" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/flash-rtmp-test/src/main.as" timestamp="1545878319853" />
       <file name="/fragment.js2" timestamp="1545878387042">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/klipper/klipper.cpp" timestamp="1543547102344">
-        <mark key="'" line="68" column="21" />
-        <mark key="[" line="1000" column="0" />
-        <mark key="]" line="1000" column="0" />
-        <mark key="." line="1000" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/data/RoomPolicyHolder.as" timestamp="1537167224949">
         <mark key="'" line="151" column="16" />
@@ -39,6 +50,9 @@
         <mark key="'" line="490" column="38" />
         <mark key="[" line="462" column="24" />
         <mark key="]" line="462" column="50" />
+      </file>
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/.gitignore" timestamp="1556425070958">
+        <mark key="'" line="14" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -56,30 +70,51 @@
       <jump line="63" column="41" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" />
       <jump line="61" column="28" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" />
       <jump line="68" column="21" filename="$USER_HOME$/Desktop/klipper/klipper.cpp" />
+      <jump line="14" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/.gitignore" />
+      <jump line="24" column="32" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/find_bad.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBidWlsdGlucyBpbXBvcnQgcHJpbnQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KG8pCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG8gPSB7CiAgICAgICAgJ2EnOiAxCiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcmludCh7YTogMX0pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW50IG1haW4K</text>
       </register>
       <register name=":" type="4">
         <text>463</text>
       </register>
+      <register name="-" type="4">
+        <text>p</text>
+      </register>
       <register name="/" type="4">
-        <text>ping</text>
+        <text>days</text>
       </register>
     </registers>
     <search>
-      <last-search>ping</last-search>
+      <last-search>days</last-search>
       <last-offset />
-      <last-pattern>ping</last-pattern>
+      <last-pattern>days</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -88,6 +123,8 @@
         <entry>isin</entry>
         <entry>localping</entry>
         <entry>ping</entry>
+        <entry>venv</entry>
+        <entry>days</entry>
       </history-search>
       <history-cmd>
         <entry>463</entry>
@@ -116,6 +153,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
