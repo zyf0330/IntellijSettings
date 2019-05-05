@@ -48,8 +48,8 @@
         <mark key="^" line="60" column="102" />
         <mark key="." line="60" column="102" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" timestamp="1556442306336">
-        <mark key="'" line="0" column="0" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" timestamp="1556444465494">
+        <mark key="'" line="38" column="75" />
         <mark key="[" line="38" column="76" />
         <mark key="]" line="38" column="76" />
         <mark key="." line="38" column="76" />
@@ -61,7 +61,7 @@
         <mark key="]" line="1000" column="0" />
         <mark key="." line="1000" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/utils.py" timestamp="1556437297354">
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/utils.py" timestamp="1556450471182">
         <mark key="'" line="22" column="32" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1537166677313">
@@ -95,14 +95,11 @@
         <mark key="[" line="462" column="24" />
         <mark key="]" line="462" column="50" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/.gitignore" timestamp="1556425070958">
-        <mark key="'" line="14" column="13" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/.gitignore" timestamp="1556451068323">
+        <mark key="'" line="0" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="27" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" />
-      <jump line="290" column="97" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" />
-      <jump line="49" column="43" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/data/RoomPolicyHolder.as" />
       <jump line="464" column="46" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" />
       <jump line="460" column="8" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" />
       <jump line="490" column="38" filename="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" />
@@ -200,6 +197,9 @@
       <jump line="75" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="78" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="38" column="75" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scripts/flash_usage.py" />
+      <jump line="90" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/.gitignore" />
+      <jump line="0" column="2" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -209,7 +209,7 @@
         <text>.limit(100)</text>
       </register>
       <register name="/" type="4">
-        <text>limit</text>
+        <text>csv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRmID0gcGQuRGF0YUZyYW1lKHRfcmVjb3JkcywgY29sdW1ucz1bJ2RhdGUnLCAncm9vbSddKVwKICAgICAgICAuZ3JvdXBieShbJ2RhdGUnXSwgc29ydD0nZGF0ZScpLmFnZygnY291bnQnKQo=</text>
@@ -246,9 +246,9 @@
       </register>
     </registers>
     <search>
-      <last-search>limit</last-search>
+      <last-search>csv</last-search>
       <last-offset />
-      <last-pattern>limit</last-pattern>
+      <last-pattern>csv</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaW5kX2Zyb21fZGJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -256,7 +256,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYXRjaFw+</entry>
         <entry>get</entry>
         <entry>doc</entry>
         <entry>pd</entry>
@@ -276,6 +275,7 @@
         <entry>is_flash</entry>
         <entry>find</entry>
         <entry>limit</entry>
+        <entry>csv</entry>
       </history-search>
       <history-cmd>
         <entry>463</entry>
