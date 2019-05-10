@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <removed_mapping ext="css" type="CSS" />
       <mapping ext="applejs" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
