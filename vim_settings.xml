@@ -25,7 +25,7 @@
         <mark key="^" line="13" column="7" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="/fragment.py" timestamp="1558512549644">
+      <file name="/fragment.py" timestamp="1558604063394">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="0" />
@@ -48,12 +48,12 @@
         <mark key="[" line="55" column="54" />
         <mark key="]" line="55" column="63" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" timestamp="1558602940761">
-        <mark key="'" line="8" column="11" />
-        <mark key="[" line="34" column="83" />
-        <mark key="]" line="34" column="82" />
-        <mark key="^" line="34" column="82" />
-        <mark key="." line="34" column="82" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" timestamp="1558604942430">
+        <mark key="'" line="7" column="23" />
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="20" />
+        <mark key="^" line="34" column="20" />
+        <mark key="." line="34" column="20" />
       </file>
       <file name="/JavaScript Console" timestamp="1558602630493">
         <mark key="[" line="0" column="0" />
@@ -81,8 +81,8 @@
       <file name="/Dummy.txt" timestamp="1558515344835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" timestamp="1558511640524">
-        <mark key="'" line="280" column="12" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" timestamp="1558604272363">
+        <mark key="'" line="435" column="8" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1541570814198">
         <mark key="[" line="8" column="85" />
@@ -127,8 +127,12 @@
         <mark key="^" line="18396" column="16" />
         <mark key="." line="18396" column="16" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" timestamp="1558602076017">
-        <mark key="'" line="15" column="28" />
+      <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" timestamp="1558604222563">
+        <mark key="'" line="41" column="36" />
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="4" />
+        <mark key="^" line="28" column="4" />
+        <mark key="." line="28" column="4" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/data/RoomPolicyHolder.as" timestamp="1537167224949">
         <mark key="'" line="151" column="16" />
@@ -140,34 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="21" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="306" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="322" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="340" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="349" column="17" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="361" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="370" column="17" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="385" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="51" column="17" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="94" column="26" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="76" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="93" column="26" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="32" column="24" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/utils.py" />
-      <jump line="123" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/handlers/report_handlers.py" />
-      <jump line="134" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/handlers/report_handlers.py" />
-      <jump line="145" column="21" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/handlers/report_handlers.py" />
-      <jump line="133" column="17" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/handlers/report_handlers.py" />
-      <jump line="121" column="15" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="182" column="15" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="7" column="7" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="234" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="265" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="11" column="65" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="227" column="8" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="241" column="31" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="549" column="42" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="230" column="16" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
-      <jump line="689" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="496" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
       <jump line="67" column="13" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/report.py" />
@@ -180,14 +156,12 @@
       <jump line="33" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="251" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="31" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
-      <jump line="105" column="14" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="29" column="14" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="252" column="8" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="30" column="20" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="61" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="42" column="1" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="64" column="1" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
-      <jump line="93" column="1" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="191" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="196" column="19" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="213" column="55" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
@@ -202,7 +176,6 @@
       <jump line="151" column="20" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="34" column="8" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
       <jump line="170" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
-      <jump line="171" column="46" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
       <jump line="172" column="32" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
       <jump line="174" column="32" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
       <jump line="280" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
@@ -221,7 +194,6 @@
       <jump line="35" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="34" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="56" column="25" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
-      <jump line="7" column="23" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="16" column="32" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/front/index.html" />
       <jump line="32" column="47" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/front/index.html" />
       <jump line="33" column="47" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/front/index.html" />
@@ -233,20 +205,52 @@
       <jump line="16" column="18" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="20" column="34" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="178" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
-      <jump line="333" column="45" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
       <jump line="300" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
       <jump line="15" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
       <jump line="86" column="32" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
-      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="8" column="11" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
+      <jump line="41" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
+      <jump line="334" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
+      <jump line="161" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
+      <jump line="162" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
+      <jump line="345" column="32" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="12" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="68" column="27" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="139" column="70" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="171" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="180" column="61" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="246" column="38" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="281" column="12" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="293" column="34" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="310" column="22" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="329" column="27" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="13" column="30" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
+      <jump line="65" column="15" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
+      <jump line="93" column="1" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
+      <jump line="105" column="1" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
+      <jump line="117" column="1" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
+      <jump line="128" column="1" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
+      <jump line="142" column="1" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
+      <jump line="150" column="1" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
+      <jump line="333" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
+      <jump line="28" column="4" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
+      <jump line="41" column="36" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
+      <jump line="436" column="24" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="427" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="429" column="21" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="435" column="8" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/login_manager.py" />
+      <jump line="101" column="24" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
+      <jump line="0" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
+      <jump line="7" column="23" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>supports_credentials</text>
+        <text>http://localhost:3000</text>
       </register>
       <register name="-" type="4">
-        <text>supports_credentials</text>
+        <text>http://localhost:3000</text>
       </register>
       <register name="/" type="4">
         <text>cors</text>
@@ -296,18 +300,12 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5cPg==</entry>
-        <entry>users</entry>
-        <entry encoding="base64">XDxsb2dpbl91c2VyXD4=</entry>
         <entry>login_u</entry>
-        <entry>login_user</entry>
         <entry encoding="base64">XDxVc2VyTWl4aW5cPg==</entry>
-        <entry>login</entry>
         <entry>def lo</entry>
         <entry>session</entry>
         <entry>def login</entry>
         <entry>login_required</entry>
-        <entry>current</entry>
         <entry>highch</entry>
         <entry>http</entry>
         <entry>highcharts</entry>
@@ -315,6 +313,12 @@
         <entry encoding="base64">XDxfcmVxdWVzdF9jdHhfc3RhY2tcPg==</entry>
         <entry>current_user</entry>
         <entry>duration</entry>
+        <entry>current</entry>
+        <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
+        <entry>login</entry>
+        <entry>login_user</entry>
+        <entry encoding="base64">XDxlbmNvZGVfY29va2llXD4=</entry>
+        <entry encoding="base64">XDxfc2V0X2Nvb2tpZVw+</entry>
         <entry>cors</entry>
       </history-search>
       <history-cmd>
