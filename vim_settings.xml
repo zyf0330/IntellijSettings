@@ -49,10 +49,7 @@
         <mark key="]" line="55" column="63" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/front/src/models/user.js" timestamp="1558683778761">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="27" column="5" />
-        <mark key="." line="24" column="21" />
-        <mark key="^" line="38" column="6" />
+        <mark key="^" line="13" column="6" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" timestamp="1559021982541">
         <mark key="'" line="192" column="39" />
@@ -309,7 +306,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaW5kX2Zyb21fZGJcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
