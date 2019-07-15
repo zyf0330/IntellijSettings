@@ -9,6 +9,7 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="FindInPath" />
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
   <action id="MethodHierarchy" />
