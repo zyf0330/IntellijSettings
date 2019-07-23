@@ -82,17 +82,23 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="84" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1558511261760">
+        <mark key="[" line="1208" column="0" />
+        <mark key="]" line="1219" column="9" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/find_bad.py" timestamp="1561716373285">
         <mark key="'" line="95" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1537166677313">
         <mark key="'" line="290" column="97" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1558511261760">
-        <mark key="[" line="1208" column="0" />
-        <mark key="]" line="1219" column="9" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1557903559389">
+        <mark key="[" line="18396" column="11" />
+        <mark key="]" line="18396" column="23" />
+        <mark key="^" line="18396" column="16" />
+        <mark key="." line="18396" column="16" />
       </file>
       <file name="/fragment.js2" timestamp="1545878387042">
         <mark key="[" line="0" column="0" />
@@ -117,12 +123,6 @@
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/front/src/models/report.js" timestamp="1558683478799">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="32" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1557903559389">
-        <mark key="[" line="18396" column="11" />
-        <mark key="]" line="18396" column="23" />
-        <mark key="^" line="18396" column="16" />
-        <mark key="." line="18396" column="16" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" timestamp="1558604222563">
         <mark key="'" line="41" column="36" />
@@ -278,7 +278,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FindInPath</text>
       </register>
     </registers>
     <search>
@@ -288,7 +288,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaW5kX2Zyb21fZGJcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -320,6 +320,7 @@
         <entry>reg</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>action FindInPath</entry>
       </history-cmd>
       <history-expr />
       <history-input />
