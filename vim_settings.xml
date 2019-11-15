@@ -32,6 +32,12 @@
         <mark key="^" line="100" column="4" />
         <mark key="." line="100" column="4" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1557903559389">
+        <mark key="[" line="18396" column="11" />
+        <mark key="]" line="18396" column="23" />
+        <mark key="^" line="18396" column="16" />
+        <mark key="." line="18396" column="16" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/force_report.py" timestamp="1560329664821">
         <mark key="'" line="19" column="4" />
         <mark key="[" line="57" column="50" />
@@ -90,23 +96,17 @@
         <mark key="[" line="92" column="53" />
         <mark key="]" line="92" column="60" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1558511261760">
-        <mark key="[" line="1208" column="0" />
-        <mark key="]" line="1219" column="9" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/find_bad.py" timestamp="1561716373285">
         <mark key="'" line="95" column="0" />
       </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1537166677313">
         <mark key="'" line="290" column="97" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1557903559389">
-        <mark key="[" line="18396" column="11" />
-        <mark key="]" line="18396" column="23" />
-        <mark key="^" line="18396" column="16" />
-        <mark key="." line="18396" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1558511261760">
+        <mark key="[" line="1208" column="0" />
+        <mark key="]" line="1219" column="9" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.js2" timestamp="1545878387042">
         <mark key="[" line="0" column="0" />
@@ -139,12 +139,14 @@
         <mark key="^" line="28" column="4" />
         <mark key="." line="28" column="4" />
       </file>
+      <file name="$USER_HOME$/project/duobei/SRETools/alarmsender/example_data.py" timestamp="1573801433189">
+        <mark key="'" line="10" column="27" />
+      </file>
       <file name="/media/zyf/data/Programming/project/duobei/duobei-client-core/src/com/duobei/client/core/data/RoomPolicyHolder.as" timestamp="1537167224949">
         <mark key="'" line="151" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="28" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/flask_login/utils.py" />
       <jump line="86" column="32" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="8" column="11" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
       <jump line="41" column="0" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/api.py" />
@@ -244,6 +246,7 @@
       <jump line="37" column="39" filename="/media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/scheduler/report.py" />
       <jump line="208" column="8" filename="/media/zyf/data/Programming/project/duobei/vod/GrayClassAnalyzer/server/apps/location_handler.py" />
       <jump line="331" column="40" filename="/media/zyf/data/Programming/project/duobei/vod/GrayClassAnalyzer/server/apps/location_handler.py" />
+      <jump line="10" column="27" filename="$USER_HOME$/project/duobei/SRETools/alarmsender/example_data.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -253,7 +256,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>merrrrrrrrrrrcha</text>
+        <text>labels</text>
       </register>
       <register name="0" type="4">
         <text>'jzea03b3c9d466458e835bf7633be69eb3'</text>
@@ -290,9 +293,9 @@
       </register>
     </registers>
     <search>
-      <last-search>merrrrrrrrrrrcha</last-search>
+      <last-search>labels</last-search>
       <last-offset />
-      <last-pattern>merrrrrrrrrrrcha</last-pattern>
+      <last-pattern>labels</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaW5kX2Zyb21fZGJcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -300,7 +303,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxob3N0bmFtZXNcPg==</entry>
         <entry>report</entry>
         <entry encoding="base64">XDxzZWNyZXRfa2V5XD4=</entry>
         <entry>is_ov</entry>
@@ -320,6 +322,7 @@
         <entry>fail</entry>
         <entry encoding="base64">XDxtZXJnZV9sb2dfaW5mb1w+</entry>
         <entry>merrrrrrrrrrrcha</entry>
+        <entry>labels</entry>
       </history-search>
       <history-cmd>
         <entry>463</entry>
