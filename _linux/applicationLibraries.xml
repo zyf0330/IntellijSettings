@@ -2,8 +2,6 @@
   <component name="libraryTable">
     <library name="Python 3.6 (venv) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/app/Python-3.6.8/Lib" />
-        <root url="file://$USER_HOME$/app/Python-3.6.8/build/lib.linux-x86_64-3.6" />
         <root url="file:///media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages" />
         <root url="jar:///media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
         <root url="file:///media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
@@ -15,8 +13,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/app/Python-3.6.8/Lib" />
-        <root url="file://$USER_HOME$/app/Python-3.6.8/build/lib.linux-x86_64-3.6" />
         <root url="file:///media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages" />
         <root url="jar:///media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
         <root url="file:///media/zyf/data/Programming/project/duobei/datalog/duobeiyun-analyzer/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
