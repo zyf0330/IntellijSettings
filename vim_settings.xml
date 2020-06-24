@@ -178,12 +178,12 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/media/zyf/data/Programming/project/duobei/flash-rtmp-test/src/main.as" timestamp="1588130175686">
-        <mark key="'" line="27" column="39" />
-        <mark key="[" line="28" column="45" />
-        <mark key="]" line="28" column="47" />
-        <mark key="." line="28" column="46" />
-        <mark key="^" line="28" column="47" />
+      <file name="/media/zyf/data/Programming/project/duobei/flash-rtmp-test/src/main.as" timestamp="1592972693927">
+        <mark key="'" line="28" column="39" />
+        <mark key="[" line="66" column="38" />
+        <mark key="]" line="66" column="39" />
+        <mark key="." line="66" column="38" />
+        <mark key="^" line="66" column="39" />
       </file>
       <file name="/fragment.js2" timestamp="1585120170219">
         <mark key="[" line="0" column="0" />
@@ -315,46 +315,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>bj</text>
+        <text>uri, params</text>
       </register>
       <register name="+" type="4">
         <text>tinder-rtmp-bj.duobeiyun.com:1011</text>
       </register>
       <register name="-" type="4">
-        <text>bj</text>
+        <text>uri, params</text>
       </register>
       <register name="/" type="4">
         <text>24</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdXJpOlN0cmluZyA9ICJydG1wOi8vdGluZGVyLXJ0bXAtYmouZHVvYmVpeXVuLmNvbToxMDExL2FwcHMvIiArIHJvb21JZDsK</text>
+        <text encoding="base64">ICAgICAgICB0cmFjZSgnc3RhcnQgY29ubmVjdC4uLicsIHVyaSwgcGFyYW1zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2UoJ3N0YXJ0IGNvbm5lY3QuLi4nLCB1cmksIHBhcmFtcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodG9wZWxlbWVudCA9PSBTVEFDS19FTVBUWSkKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgZWxzZQogICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgIG1ldGhvZChPYmplKSB7Ck1hcDxzdHJpbmcsc3RyaW5nPgogICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhciB1cmk6U3RyaW5nID0gInJ0bXA6Ly8xOTIuMTQ0LjE1Ny41Njo4MDEwL2FwcHMvIiArIHJvb21JZDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdXJpOlN0cmluZyA9ICJydG1wOi8vMzkuMTA2Ljg5LjYxOjMwMDgwL2FwcHMvIiArIHJvb21JZDsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IodmFyIGkgPSAwO2kpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodG9wZWxlbWVudCA9PSBTVEFDS19FTVBUWSkKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgZWxzZQogICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgIG1ldGhvZChPYmplKSB7Ck1hcDxzdHJpbmcsc3RyaW5nPgogICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNaWthdHN1a2k6Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhciB1cmk6U3RyaW5nID0gInJ0bXA6Ly8xOTIuMTQ0LjE1Ny41Njo4MDEwL2FwcHMvIiArIHJvb21JZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gcHVzaFN0dWRlbnRDb3VudChvYmo6T2JqZWN0KTp2b2lkIHsKICAgICAgICB0cmFjZSgncHVzaFN0dWRlbnRDb3VudDonLCB0aGlzLnByZXR0eU9iaihvYmopKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdXJpOlN0cmluZyA9ICJydG1wOi8vMzkuMTA2Ljg5LjYxOjMwMDgwL2FwcHMvIiArIHJvb21JZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action FindInPath</text>
@@ -369,7 +369,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxmaW5kX2Zyb21fZGJcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
