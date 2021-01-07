@@ -15,12 +15,15 @@
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="shift ctrl u" />
     <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
@@ -75,6 +78,7 @@
     <keyboard-shortcut first-keystroke="ctrl f11" />
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowContent" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift alt slash" />
