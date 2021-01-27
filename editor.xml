@@ -23,6 +23,7 @@
   </component>
   <component name="LiveEditOptions" autoDelay="500" restartIfHotSwapFailed="true" />
   <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
     <option name="tagTreeHighlightingLevelCount" value="3" />
   </component>
 </application>
