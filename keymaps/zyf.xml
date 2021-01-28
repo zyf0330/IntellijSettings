@@ -113,4 +113,7 @@
   <action id="Vcs.ReformatCommitMessage">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="bootRuntime.main.ChooseBootRuntimeAction">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
 </keymap>
